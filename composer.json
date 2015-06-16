@@ -1,0 +1,12 @@
+{
+    "name": "root/namespacing",
+    "authors": [
+        {
+            "name": "Gareth Redfern",
+            "email": "gareth.redfern@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.13"
+    }
+}
